@@ -25,7 +25,6 @@ class abTanh(layers.Layer):
         return x
 ```
 
-**Images:**
 ![abtanh](https://github.com/Masterjun12/Parametric-Activation-Function/blob/9f24cea9f9c5520329e6c61622e6b2b78ebcb182/gif/ab.gif)  
 ![tanh 2](https://github.com/Masterjun12/Parametric-Activation-Function/blob/9f24cea9f9c5520329e6c61622e6b2b78ebcb182/gif/tanh.gif)
 
